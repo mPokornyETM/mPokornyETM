@@ -1,49 +1,77 @@
-## 🌟 About Me  
+# Martin Pokorny
 
-- ~ 20 years skills in SW development
+I build engineering tooling, automation, and developer infrastructure with a strong focus on WinCC OA, CI/CD, testing, and long-term maintainability.
+
+Alongside that work, I remain deeply engaged in the Jenkins ecosystem and continue to serve as a core developer of the [`lockable-resources-plugin`](https://github.com/jenkinsci/lockable-resources-plugin).
+
+Over the last 12 months (2025-09-22 to 2026-09-22), I contributed across **126 repositories** with **1,757 commits**, **587 pull requests**, **245 code reviews**, and **233 issues**. The majority of that work was focused on **WinCC OA-related engineering tooling**, with **winccoa-tools-pack** as the main delivery vehicle, alongside sustained contributions to the **Jenkins community** and plugin engineering.
+
+## Focus Areas
+
+- WinCC OA developer tooling and ecosystem building
+- Jenkins plugin development and maintenance
+- VS Code extensions
+- CI/CD automation
+- Testing, syntax validation, and code style
+- Documentation and reusable engineering workflows
+
+## Selected Repositories
+
+### WinCC OA
+
+- [`winccoa-tools-pack/npm-winccoa-core`](https://github.com/winccoa-tools-pack/npm-winccoa-core)
+- [`winccoa-tools-pack/winccoa-native-gui-test-framework`](https://github.com/winccoa-tools-pack/winccoa-native-gui-test-framework)
+- [`mPokornyETM/vs-code-wincc-oa-projects-viewer`](https://github.com/mPokornyETM/vs-code-wincc-oa-projects-viewer)
+- contributions across **50+ WinCC OA-related repositories**
+
+### Jenkins
+
+- [`jenkinsci/lockable-resources-plugin`](https://github.com/jenkinsci/lockable-resources-plugin)
+- [`mPokornyETM/chucknorris-plugin`](https://github.com/mPokornyETM/chucknorris-plugin)
+- contributions across **20+ additional Jenkins-related repositories**
+
+## Recent Engineering Activity
+
+- **126** repositories contributed to
+- **1,757** commits
+- **587** pull requests
+- **245** code reviews
+- **233** issues
+
+## Recent Focus Split
+
+- **WinCC OA:** 81.72%
+- **Jenkins:** 16.29%
+- **Private:** 1.99%
+
+## About Me
+
+- ~20 years in software development
 - Father of 2 + 2
 - Dog owner
 - Hockey fanatic
 
 ## Support
 
-“Open source” does not mean “includes free support”
+Open source does not mean free support.
 
-You can support the contributor and buy him a coffee.
+If my work helps your team, you can support it here:
 
-[![coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/mpokornyetm) 
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/mpokornyetm)
 
-Every second invested in an open-source project is a second you can't invest in your own family / friends / hobby.
-That`s the reason, why supporting the contributors is so important.
-
-Thx very much for supporting us.
+Every hour invested in open-source work is time not spent on family, friends, or hobbies. Support helps keep this work sustainable.
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mPokornyETM&theme=rose&hide_border=true)](https://git.io/streak-stats)
-
----
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mPokornyETM&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mPokornyETM&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mPokornyETM&theme=github-dark" alt="GitHub Contribution Graph" />
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mPokornyETM&theme=holi&no-frame=false&no-bg=false&margin-w=4)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mPokornyETM&limit=5&theme=rose&combine_all_yearly_contributions=true)
-
-## [![](https://visitcount.itsvg.in/api?id=birucodeastromer&label=Commits%20watchers&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)
+## GitHub Activity
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mPokornyETM)](https://git.io/streak-stats)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mPokornyETM&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mPokornyETM&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" width="100">
+## Fun Fact
 
-## 🎨 Fun Fact
-
-When I’m not coding, hmm let me think ??? Ah I know, my family, dogs, hockey, camping, DYI ...!
+When I’m not coding: family, dogs, hockey, camping, and DIY.

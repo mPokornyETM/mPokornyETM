@@ -1,4 +1,7 @@
-# Martin Pokorny
+# Martin Wrana Pokorny
+
+Born in Slovakia, worked all over Europe by customers side ~ 6 years long and live in Austria since 2011.
+Happily married, fahter of 2 + 2
 
 I build engineering tooling, automation, and developer infrastructure with a strong focus on WinCC OA, CI/CD, testing, and long-term maintainability.
 

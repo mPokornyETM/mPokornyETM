@@ -1,4 +1,4 @@
-# Martin Wrana Pokorny
+# Martin Wrana-Pokorný
 
 Born in Slovakia, worked all over Europe by customers side ~ 6 years long and live in Austria since 2011.
 Happily married, fahter of 2 + 2
